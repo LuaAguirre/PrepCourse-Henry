@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo 2 del curso de Henry
+Este `rpyecto es una prueba para clonar desde Github
